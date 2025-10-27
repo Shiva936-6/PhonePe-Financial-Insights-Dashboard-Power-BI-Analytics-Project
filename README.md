@@ -112,7 +112,7 @@ The dashboard is designed to visualize transaction amounts, payment success/fail
 
 ## 👨‍💻 Author  
 **[Shivendra Pratap Singh]**  
-📧 [shivendra2408@gmail.com]  
+📧 [Gmail-shivendra2408@gmail.com]  
 🔗 [LinkedIn Profile-www.linkedin.com/in/shivendra-pratap-s-6a5244246]
 
 ---

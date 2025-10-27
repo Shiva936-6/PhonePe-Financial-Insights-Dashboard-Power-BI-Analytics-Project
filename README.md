@@ -24,7 +24,6 @@ The dashboard is designed to visualize transaction amounts, payment success/fail
 - Line chart representing **Date vs Amount** trend.  
 - Pie chart for **Failed Payment Reasons**.  
 
-📷 **Screenshot:**  
 ![Home Dashboard](./Phonepe1.png)
 
 ---
@@ -35,7 +34,6 @@ The dashboard is designed to visualize transaction amounts, payment success/fail
 - Pie chart showing **Failure Reasons**.  
 - Monthly performance trend (Date vs Amount).  
 
-📷 **Screenshot:**  
 ![Insurance Dashboard](./Phonepe2.png)
 
 ---
@@ -45,7 +43,6 @@ The dashboard is designed to visualize transaction amounts, payment success/fail
 - Pie chart showing failed payment reasons.  
 - Line graph showing **Date vs Amount** trend for loan transactions.  
 
-📷 **Screenshot:**  
 ![Loans Dashboard](./Phonepe3.png)
 
 ---
@@ -55,7 +52,6 @@ The dashboard is designed to visualize transaction amounts, payment success/fail
 - Compares successful vs failed payments.  
 - Monthly transaction performance visualization.  
 
-📷 **Screenshot:**  
 ![Money Transfer Dashboard](./Phonepe4.png)
 
 ---
@@ -64,8 +60,7 @@ The dashboard is designed to visualize transaction amounts, payment success/fail
 - Visualizes total transactions and amounts for categories like **Electricity, DTH, Mobile Recharge, and Cable TV**.  
 - Highlights **payment success/failure ratio**.  
 - Line chart for **Monthly Transaction Amount Trends**.  
-
-📷 **Screenshot:**  
+ 
 ![Recharge & Bills Dashboard](./Phonepe5.png)
 
 ---
